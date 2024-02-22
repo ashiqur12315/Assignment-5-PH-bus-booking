@@ -1,0 +1,25 @@
+.raleway {
+    font-family: "Raleway", sans-serif;
+}
+
+.banner {
+    background-image: url('./B9A5-smart-ticketing-main/images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    
+}
+
+.bg-1 {
+    background-image: url('./B9A5-smart-ticketing-main/images/Group\ 115.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.bg-2{
+    background-image: url('./B9A5-smart-ticketing-main/images/pixae.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
