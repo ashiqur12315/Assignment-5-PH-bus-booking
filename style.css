@@ -5,7 +5,7 @@
 .banner {
     background-image: url('./B9A5-smart-ticketing-main/images/banner.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: left;
     
 }
