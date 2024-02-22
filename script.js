@@ -11,9 +11,9 @@ for (const seat of allSeat) {
         let price = 550;
         let existingSeat=document.getElementById('selected-seat').innerText;
         let seatInd = document.getElementById('seatName').innerText;
-        if(existingSeat.includes(seatInd)){
-            alert('Already Selected');
-        }
+        // if(existingSeat.includes(seatInd)){
+        //     alert('Already Selected');
+        // }
 
         if (totalClick >= 4) {
             this.disabled = true;
